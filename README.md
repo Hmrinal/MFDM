@@ -9,7 +9,6 @@ This is a simple project that explains IoT Based Patient Health Monitoring Syste
 ![Connection Diagram](connection.png)
 
 
-
 ## Dependecies 
 
 - Arduino
