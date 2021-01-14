@@ -4,7 +4,7 @@ The project was initiated with a purpose of creating an efficient medical system
 
 ## 🔨 Basic Working
 
-Health monitoring is the major problem in today’s world. Due to lack of proper health monitoring, patient suffer from serious health issues. 
+Health monitoring is the major problem in today’s world. Due to lack of proper health monitoring, patient suffer from serious health issues.   
 
 This is a simple project that explains IoT Based Patient Health Monitoring System using ESP8266 & Arduino. Pulse Sensor and LM35 Temperature Sensors measures BPM & Environmental Temperature respectively. The Arduino processes the code and displays to 16*2 LCD Display. ESP8266 Wi-Fi module connects to Wi-Fi and sends the data to IoT device server. The IoT server used here is Thinkspeak. Finally the data can be monitored from any part of the world by logging into Thingspeak channel.
 
