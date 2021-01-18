@@ -17,7 +17,8 @@ This is a simple project that explains IoT Based Patient Health Monitoring Syste
 - Arduino
 - Thinkspeak
 - ESP8266
-- NodeMCU (if one does not want arduino dependency)
+- NodeMCU (if one does not want arduino dependency
+- Other sensors based on choice
 
 ## 📦 Install
 
