@@ -1,6 +1,6 @@
 # Medical Examination using Hardware Aid
 
-The project was initiated with a purpose of creating an efficient medical system. The Curative Assistance System is IOT based HealthCare System for monitoring all the body parameters like Heartbeat, ECG, BP etc. It provides  facility of accessing all the parameters at any time which is very useful for the doctors at the time of treatment. 
+The project was initiated with a purpose of creating an efficient medical system. The Curative Assistance System is `IOT based HealthCare System` for monitoring all the body parameters like Heartbeat, ECG, BP etc. It provides  facility of accessing all the parameters at any time which is very useful for the doctors at the time of treatment. 
 
 ## 🔨 Basic Working
 
