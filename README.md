@@ -22,6 +22,6 @@ This is a simple project that explains IoT Based Patient Health Monitoring Syste
 
 ## 📦 Install
 
-Open the code Arduino software and save as '.ino' file, after downloading the required pacakages,like `esp` in library.These pacakages are available on GitHub and other online platforms as per the choice of project builder. 
+Open the code Arduino software and save as `.ino` file, after downloading the required pacakages,like `esp` in library.These pacakages are available on GitHub and other online platforms as per the choice of project builder. 
 
 After saving the code and connecting the components together, run it and view the output on both 'Thinkspeak' and `Arduino Serial Monitor`. 
